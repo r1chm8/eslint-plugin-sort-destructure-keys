@@ -1,6 +1,6 @@
 {
-  "name": "eslint-plugin-sort-destructure-keys",
-  "version": "1.4.0",
+  "name": "@r1chm8/eslint-plugin-sort-destructure-keys",
+  "version": "0.0.1",
   "description": "require object destructure key to be sorted",
   "repository": "https://github.com/mthadley/eslint-plugin-sort-destructure-keys",
   "keywords": [
